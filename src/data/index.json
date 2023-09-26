@@ -1,0 +1,54 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "PHP",
+      "description": "I have built fintech solutions for b2b start-ups, scaling their virtual account services with php powering the core architecture."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Front-End",
+      "description": "with years of practicing and building with javascript,I use recent or current technologies like html 5 and my favorite react to build solid or curate standard user interfaces with good user experiences"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "React",
+      "description": "Using react i have developed complex applications that consume services that are powered by sophisticated backend technologies"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Sql",
+      "description": "i design and create proffesional databases using MySQL query language"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/usp.PNG",
+      "title": "Unsplash Images Clone",
+      "description": "A basic user interface that utilizes the unsplash api to genrate your preferred images for you",
+      "link": "View In Github",
+      "path": "https://github.com/Oghenekparobo/unsplash-api-search_images"
+    },
+    {
+      "id": "2",
+      "src": "./img/organic.PNG",
+      "title": "Organic Stores",
+      "description": "an e-commerce website that ships farm produce to consumers and sellers",
+      "link": "View In Github",
+      "path": "https://github.com/Oghenekparobo/catClone"
+    },
+    {
+      "id": "3",
+      "src": "./img/shop-x.PNG",
+      "title": "Shop-x",
+      "description": "A furniture store for the elite",
+      "link": "View In Github",
+      "path": "https://github.com/Oghenekparobo/SHop"
+    }
+  ]
+}
